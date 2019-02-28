@@ -7,6 +7,5 @@ def run_guessing_game
       puts "Goodbye!"
     end
 
-
 end
 # Code your solution here!
