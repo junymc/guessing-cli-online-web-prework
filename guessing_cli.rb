@@ -10,6 +10,5 @@ def run_guessing_game
     else
       puts "The computer guessed #{com_number}."
     end
-
 end
 # Code your solution here!
